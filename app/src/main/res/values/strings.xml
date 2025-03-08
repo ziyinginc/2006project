@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">2006project</string>
+
+    <string-array name="spinner_items">
+        <item>Car</item>
+        <item>Motorcycle</item>
+        <item>Bus</item>
+        <item>Lorry</item>
+    </string-array>
+
+</resources>
